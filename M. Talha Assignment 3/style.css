@@ -1,0 +1,33 @@
+h1{
+    font-size: 6em;
+    text-align: center;
+}
+.table_items{
+    border: 1px solid black;
+    padding: 10px 20px;
+    text-align: center;
+    width: 10%;
+}
+.table_periodic{
+    margin: 0 auto;
+    width: 50rem;
+}
+sub{
+    font-size: 0.2em;
+    color: brown;
+    background-color: aqua;
+}
+.table_type1{
+    border: 1px solid black;
+    padding: 10px 20px;
+    text-align: center;
+    width: 10%;
+    color: Blue; 
+}
+.table_type2{
+    border: 1px solid black;
+    padding: 10px 20px;
+    text-align: center;
+    width: 10%;
+    color: red; 
+}
