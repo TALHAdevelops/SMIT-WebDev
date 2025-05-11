@@ -1,0 +1,52 @@
+.role-options {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.role-options label {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+h1{
+    color: chartreuse;
+    text-align: center;
+    font-size: 60px;
+    display: inline-block;
+    background-color: Black;
+    
+}
+sub{
+    font-size: 20px;
+    background-color: darkkhaki;
+}
+form{
+    background-color: aqua;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 0 auto;
+    width: 50%;
+   
+}
+body{
+    background-color: lightcoral;
+}
+.button{
+    background-color: Red;
+    color: black;
+    border: 1px solid black;
+    padding: 7px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    transition: background-color 0.3s ease-in-out;
+}
+.button:hover{
+    background-color: black;
+    color: white;
+
+}
+
