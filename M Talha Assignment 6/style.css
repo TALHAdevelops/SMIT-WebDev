@@ -1,0 +1,155 @@
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbar h1{
+    background-color: black;
+    color: chartreuse;
+    padding: 10px;
+}
+.links{
+    display: flex;
+    gap: 20px;
+    text-decoration: none;
+    list-style: none;
+
+}
+.links a{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(32, 150, 32);
+        padding: 10px;
+        border-radius: 5px;
+}
+.mainline{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-style: italic;
+
+}
+.marsum{
+    background-color: white;
+    display: inline;
+}
+
+.marsum h3{
+    display: inline;
+    color: white;
+    background-color: rgb(32, 150, 32);
+    padding: 10px;
+    border-radius: 5px;
+
+}
+.table1{
+    align-items: center;
+    text-align: center;
+    
+}
+.thg{
+    color: green;
+}
+.maract h3{
+    display: inline;
+    color: white;
+    background-color: rgb(32, 150, 32);
+    padding: 10px;
+    border-radius: 5px;
+
+}
+.tables{
+    display: flex;
+    gap: 6px;
+   
+}
+.table2 th{
+   padding-left: 150px;
+}
+.recquo h3{
+    display: inline;
+    color: white;
+    background-color: rgb(32, 150, 32);
+    padding: 10px;
+    border-radius: 5px;
+
+}
+.table2{
+    background-color: rgb(212, 208, 208);
+}
+.about{
+    display: flex;
+    gap: 20px;
+    justify-content: space-evenly;
+}
+.card1{
+    border: 1px solid black;
+    width: 400px;
+    height: auto;
+}
+.card3{
+    border: 1px solid black;
+    width: auto;
+    height: auto;
+}
+.subc{
+  padding: 22px 99px;
+}
+.mainth{
+    color: green;
+    font-weight: bolder;
+}
+.exin{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: grey;
+    align-items: center;
+    text-align: center;
+}
+.insights{
+   width: 300px;
+   height: auto;
+   
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(105, 105, 105);
+    color: white;
+    padding: 20px;
+}
+.f1 h3{
+    color: chartreuse;
+    font-weight: bolder;
+}
+.f1{
+    width: 300px;
+}
+.f2 h3{
+    color: chartreuse;
+    font-weight: bolder;
+}
+.fields{
+    border: 1px solid white;
+    border-radius: 6px;
+    padding-right: 100px;
+    padding-bottom: 10px;
+    align-items: center;
+}
+.f3{
+    margin-left: 30px;
+}
+.f3 h3{
+    color: chartreuse;
+    font-weight: bolder;
+}
+.button{
+    background-color: rgb(32, 150, 32);
+    color: white;
+    padding: 10px 150px;
+    border-radius: 5px;
+    border: none;
+    text-align: center;
+    align-items: center;
+}
